@@ -1,0 +1,4 @@
+gitの練習をしています
+基本的なわーくふろーを学びます
+git add
+git commit
